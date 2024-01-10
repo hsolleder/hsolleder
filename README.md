@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+### Projects
+- [spartan-body](https://github.com/hsolleder/spartan-body) — An old n-body solver using MADNESS
+- [darius](https://github.com/hsolleder/darius) — An old n-body solver using FFTW
+
+### Frequently used programming languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsolleder&layout=compact)](https://github.com/hsolleder)
+
 <!--
 **hsolleder/hsolleder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
