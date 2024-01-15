@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 ### Projects
-- [spartan-body](https://github.com/hsolleder/spartan-body) — An old n-body solver using MADNESS
-- [darius](https://github.com/hsolleder/darius) — An old n-body solver using FFTW
+- [trab-ip](https://github.com/hsolleder/trab-ip) - A 2015 set of MATLAB functions and GUI used to analyse the texture and density of trabecular bone
+- [spartan-body](https://github.com/hsolleder/spartan-body) — A 2015 C++ n-body solver using MADNESS
+- [darius](https://github.com/hsolleder/darius) — A 2015 Fortran n-body solver using FFTW
 
 ### Frequently used programming languages
 
